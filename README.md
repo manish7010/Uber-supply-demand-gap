@@ -4,6 +4,6 @@
 
 <b>Goal:</b> To Analyse the most pressing problem for Uber regarding supply-demand gap and what is the cause of that.
 
-<b>Description:</b> Almost all of us have some experience of traveling to and from the airport and have used Uber or any other cab service for this travel, and many times we face the problem of cancellation by the driver or non-availability of cars. Well, if these are the problems faced by customers, these very issues also impact the business of Uber. If drivers cancel the request of riders or if cars are unavailable, Uber loses out on its revenue.
+<b>Description:</b> Many of us are familiar with the routine of traveling to and from the airport, often relying on services like Uber or other cab providers for transportation. However, it's not uncommon to encounter issues such as driver cancellations or a lack of available cars. These challenges don't just affect customers; they also have a significant impact on Uber's business. When drivers cancel ride requests or when cars are unavailable, Uber suffers revenue losses.
 
 <b>Skills:</b> Python, Pandas, Data Visualization, Exploratory Data Analysis, Seaborn, Matplotlib
